@@ -1,0 +1,28 @@
+ {
+   "calcs": [
+  {
+    "id": 1,
+    "room": "A201",
+    "basicCost": 2500000,
+    "electric": { "oldNumber": 100, "newNumber": 200, "usage": 100 },
+    "electricCost": 300000,
+    "water": { "oldNumber": 100, "newNumber": 100, "usage": 100 },
+    "waterCost": 300000,
+    "internetCost": 180000,
+    "serviceCost": 100000,
+    "InTotal": 999999
+  },
+  {
+    "id": 2,
+    "room": "A202",
+    "basicCost": 2500000,
+    "electric": { "oldNumber": 100, "newNumber": 200, "usage": 100 },
+    "electricCost": 300000,
+    "water": { "oldNumber": 100, "newNumber": 100, "usage": 100 },
+    "waterCost": 300000,
+    "internetCost": 180000,
+    "serviceCost": 100000,
+    "InTotal": 999999
+  }
+]
+}
